@@ -26,7 +26,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        
       </ul>
     </li>
     <li><a href="#resources-used">Resources Used</a></li>
@@ -84,7 +84,7 @@ python packages
 virtual environment
 
 
-Run the following commands to start the client side and run it on your local host:
+RUN THE FOLLOWING COMMAND IN THE TERMINAL:
 
 streamlit run app.py (in terminal)
 
